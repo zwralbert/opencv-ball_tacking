@@ -1,4 +1,7 @@
 # opencv-ball_tacking
+7.py 是opencv版本
+
+ball—tracking.py是openmv版本
 
 用python在pycharm实现 numpy matplptlib cv2 serial几个模块和库
 
